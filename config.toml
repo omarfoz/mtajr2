@@ -1,4 +1,5 @@
-baseURL = "omarfoz.github.io"
+baseURL = "https://omarfoz.github.io/mtajr2/"
+
 languageCode = "en-us"
 title = "the coffee stores"
 Paginate = 1000
