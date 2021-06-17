@@ -10,6 +10,9 @@ disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
 # this setting should always be set to false, otherwise it will break the section navigation bar
 pluralizelisttitles = false
 
+publishDir = “docs”
+
+
 [params]
   author = "thecoffeestores"
   description = "the coffee stores"
